@@ -1,2 +1,2 @@
 # Genius-HomeWork
-[HomeWork-1]
+[HomeWork1]
